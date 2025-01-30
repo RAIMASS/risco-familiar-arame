@@ -11,8 +11,8 @@
 
     <script>
         // Adicione estas variáveis no início do script
-        const CLIENT_ID = 'SEU_CLIENT_ID.apps.googleusercontent.com';
-        const API_KEY = 'SUA_API_KEY';
+        const CLIENT_ID = '499238518719-2k6kdlhghgick0pcsvk8oumnn7g0v2nc.apps.googleusercontent.com.apps.googleusercontent.com';
+        const API_KEY = 'AIzaSyD5aqfZoOyDVqagdwKS7H6GmFmR1vkFiME';
         const SCOPE = 'https://www.googleapis.com/auth/drive.file';
         
         let gapiInicializado = false;
