@@ -1,4 +1,3 @@
-// Adicione no início do script
 const CLIENT_ID = 'SEU_CLIENT_ID';
 const API_KEY = 'SUA_API_KEY';
 const DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/drive/v3/rest"];
