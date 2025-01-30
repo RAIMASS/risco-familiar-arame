@@ -11,7 +11,7 @@
 
     <script>
         // Adicione estas variáveis no início do script
-        const CLIENT_ID = '499238518719-2k6kdlhghgick0pcsvk8oumnn7g0v2nc.apps.googleusercontent.com.apps.googleusercontent.com';
+        const CLIENT_ID = '499238518719-2k6kdlhghgick0pcsvk8oumnn7g0v2nc.apps.googleusercontent.com.apps.googleusercontent.com.apps.googleusercontent.com';
         const API_KEY = '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';
         const SCOPE = 'https://www.googleapis.com/auth/drive.file';
         
